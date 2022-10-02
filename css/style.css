@@ -1,0 +1,46 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    background-color: floralwhite;
+    color: black;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.Tribute{
+    text-align: center;
+}
+
+.picture {
+   margin-top: 2rem;
+}
+
+.picture img {
+    width: 70%;
+    height: auto;
+}
+
+#Biography {
+    width: 900px;
+    margin: 0 auto;
+}
+.Bio, .Arc, .Word{
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.Bio{
+    background-color: brown;
+}
+
+.Arc{
+    background-color: palegoldenrod;
+    text-align: center;
+}
+
+.Word{
+    background-color: peru;
+}
